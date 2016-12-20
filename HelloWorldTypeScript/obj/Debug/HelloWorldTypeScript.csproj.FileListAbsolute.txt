@@ -1,0 +1,6 @@
+C:\Source\Git\HelloWorldTypeScript\HelloWorldTypeScript\bin\HelloWorldTypeScript.dll
+C:\Source\Git\HelloWorldTypeScript\HelloWorldTypeScript\bin\HelloWorldTypeScript.pdb
+C:\Source\Git\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\HelloWorldTypeScript.csprojResolveAssemblyReference.cache
+C:\Source\Git\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\HelloWorldTypeScript.dll
+C:\Source\Git\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\HelloWorldTypeScript.pdb
+C:\Source\Git\HelloWorldTypeScript\HelloWorldTypeScript\bin\HelloWorldTypeScript.dll.config
